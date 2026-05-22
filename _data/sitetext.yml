@@ -49,10 +49,10 @@ en: &DEFAULT_EN
         desc: "made our robot follow a line"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "It works!"
+        year: "05/22/2026"
+        desc: "made our robot follow a line"
+        video: assets/img/timeline/IMG_1802.mov
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
